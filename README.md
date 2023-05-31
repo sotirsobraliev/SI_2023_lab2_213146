@@ -9,6 +9,7 @@
 ###  Control Flow Graph
 
 Фотографија од control flow graph-ot 
+![graph.jpg](https://github.com/sotirsobraliev/SI_2023_lab2_213146/blob/master/graph.jpg)
 
 ### Цикломатска комплексност
 
