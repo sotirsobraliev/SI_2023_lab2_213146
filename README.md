@@ -2,10 +2,6 @@
 
 ## Сотир Собралиев, бр. на индекс 213146
 
-### Група на код: 
-
-//
-
 ###  Control Flow Graph
 
 Фотографија од control flow graph-ot 
@@ -89,7 +85,7 @@
 19.3-19.2
 19.2-22
 
-3) username=boris, password = 123 23123, email = sotirgmail.com
+3) username=boris, password = 123 23123, email = elizagmail.com
 1-2
 2-23
 1-3*
@@ -125,7 +121,7 @@
 19.3-19.2
 19.2-22
 
-4) username=damjan, password = 383, email = sotirsobraliev@gmail.com
+4) username=damjan, password = 383, email = markomarkov@gmail.com
 1-2
 2-23
 1-3*
